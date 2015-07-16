@@ -1,4 +1,7 @@
+THIS REDDIT BOT WAS BUILT TO SCORE THE LIKELYHOOD OF SUCIDE ON /r/Depression subreddit AND RESPOND WITH APPROPRIATE HOTLINE INFORMATION
+
 Files:
+
 a.  All files are located in alchemyapi folder
 
 b.  All files must be run from alchemyapi folder in order to work
