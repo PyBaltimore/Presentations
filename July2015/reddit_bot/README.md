@@ -1,6 +1,6 @@
-THIS REDDIT BOT WAS BUILT TO SCORE THE LIKELYHOOD OF SUCIDE ON /r/Depression subreddit AND RESPOND WITH APPROPRIATE HOTLINE INFORMATION
+# THIS REDDIT BOT WAS BUILT TO SCORE THE LIKELYHOOD OF SUCIDE ON /r/Depression subreddit AND RESPOND WITH APPROPRIATE HOTLINE INFORMATION
 
-Files:
+## Files:
 
 a.  All files are located in alchemyapi folder
 
@@ -20,11 +20,11 @@ h.  api_key.txt - contains api key - visit alchemyapi website if you would like 
 
 i.  all other files in alchemyapi_python folder belong to alchemyapi library, ie LICENSE, example.py, README
 
-To Run a file for example app.py:
+## To Run a file for example app.py:
      python app.py <api key>
      note:  api_key is found in api_key.txt file
 
-Goals of project
+## Goals of project
 
 1.  Reddit bot which reads new posts in depression subreddit 
 
@@ -34,6 +34,6 @@ Goals of project
 
 4.  Respond with appropriate suicide hotline information
 
-Add Later:
+## Add Later:
 
 Provide community psychiatrist/psychologist resources based on poster's location
