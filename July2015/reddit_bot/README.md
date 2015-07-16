@@ -2,23 +2,23 @@
 
 ## Files:
 
-a.  All files are located in alchemyapi folder
+1.  All files are located in alchemyapi folder
 
-b.  All files must be run from alchemyapi folder in order to work
+2.  All files must be run from alchemyapi folder in order to work
 
-c.  general_sentiment file runs analysis on suicide notes
+3.  general_sentiment file runs analysis on suicide notes
 
-d.  suicide notes are located within subfolder the alchemyapi folder 
+4.  suicide notes are located within subfolder the alchemyapi folder 
 
-e.  reddit_sentiment_scoring file calculates /r/depression scores 
+5.  reddit_sentiment_scoring file calculates /r/depression scores 
 
-f.  app.py file returns scoring and sentiment for /r/depression
+6.  app.py file returns scoring and sentiment for /r/depression
 
-g.  data.csv file has to be created by user... it contains title, upvotes, sentiment, and score of each /r/depression posts
+7.  data.csv file has to be created by user... it contains title, upvotes, sentiment, and score of each /r/depression posts
 
-h.  api_key.txt - contains api key - visit alchemyapi website if you would like to request your own free api key.  The free key only allows 1000 requests per day.
+8.  api_key.txt - contains api key - visit alchemyapi website if you would like to request your own free api key.  The free key only allows 1000 requests per day.
 
-i.  all other files in alchemyapi_python folder belong to alchemyapi library, ie LICENSE, example.py, README
+9.  all other files in alchemyapi_python folder belong to alchemyapi library, ie LICENSE, example.py, README
 
 ## To Run a file for example app.py:
      python app.py <api key>
